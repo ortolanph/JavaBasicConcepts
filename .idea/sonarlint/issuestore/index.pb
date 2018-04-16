@@ -36,3 +36,15 @@ i
 +src/main/java/en/sorter/EmployeeSorter.java,8/3/834081abeed88ee04f848cad5269f08454eca562
 X
 (src/main/java/en/entitties/Employee.java,9/1/91f0aabb8c7a1d241bdf52d1e9a8970676fd0758
+`
+0src/main/java/en/comparing/ComparingObjects.java,d/9/d9a69587932713e659264158f9a4634c7dfc2ec2
+a
+1src/main/java/pt/comparing/ComparandoObjetos.java,a/2/a2ff449502a25b6e9f74232315ec8545872bf348
+a
+1src/main/java/pt/comparing/ComparandoStrings.java,7/4/74c68f89e760edbf2ef5ce4fa933d3345ee1bf0e
+d
+4src/main/java/pt/comparing/ComparandoPrimitivos.java,8/f/8fbdc33f4bc388bac81917f2a962899c2f8ab7e7
+`
+0src/main/java/en/comparing/ComparingStrings.java,2/b/2b5bfdb1f1a5dabb0b4441a5bff34126161fd663
+c
+3src/main/java/en/comparing/ComparingPrimitives.java,1/5/158971702fdeeddde62541e614ec6eaebb0b9ef8
