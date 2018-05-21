@@ -12,9 +12,9 @@ public class ComparingStrings {
 
     public static void main(String[] args) {
         if(SCREWDRIVER == SCREWDRIVER) {
-            System.out.println("Ferramentas iguais");
+            System.out.println("Same tools");
         } else {
-            System.out.println("Ferramentas diferentes");
+            System.out.println("Different tools");
         }
 
         if(isScrewdriver(CALIPER)) {
